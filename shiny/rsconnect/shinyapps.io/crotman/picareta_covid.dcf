@@ -1,0 +1,12 @@
+name: picareta_covid
+title: picareta_covid
+username:
+account: crotman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2428232
+bundleId: 3245107
+url: https://crotman.shinyapps.io/picareta_covid/
+when: 1591661590.52666
+asMultiple: FALSE
+asStatic: FALSE
